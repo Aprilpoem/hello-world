@@ -1,1 +1,2 @@
-# hello-world
+# hello world
+a small step to programmer!
